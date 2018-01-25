@@ -12,4 +12,4 @@ Perfom below experiments on olympic dataset:
 10) Use sklearn.linear_model.RidgeCV to find the best value for α across the range 0.001, 0.002, 0.004, 0.01, 0.02, 0.04, 0.1, 0.2, 0.4, 1.0.
 
 
-To execute the code please change the file path on line number 16 with your directory location. (Download the attached dataset on our system)
+To execute the code please change the file path on line number 16 with your directory location. (Download the attached dataset(.mat file) on our system)
